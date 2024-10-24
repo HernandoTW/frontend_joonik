@@ -1,2 +1,2 @@
 # frontend_joonik
-Desarrollo del frontend para prueba JOOKER
+Desarrollo del frontend para prueba JOONIK
